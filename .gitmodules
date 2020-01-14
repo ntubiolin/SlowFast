@@ -1,0 +1,3 @@
+[submodule "videoAdvAug"]
+	path = videoAdvAug
+	url = git@github.com:Nash2325138/video-object-adversarial-augmentation.git
